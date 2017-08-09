@@ -21,6 +21,7 @@ namespace TodoListService
     ///    and then calls a web API under the signed-in user's identity using tokens obtained via OAuth 2.0. 
     ///    This sample uses the OpenID Connect ASP.Net middleware and ADAL .Net running on ASP.NET Core.
     /// 
+    ///    Glenco Azure : 6zo7HR+QEuA8TgnhSf7mxX14TOvqbNcPVp/zgeuCqnE=
     /// </summary>
 
 

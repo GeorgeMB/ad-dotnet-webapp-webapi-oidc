@@ -28,11 +28,11 @@
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="1.1.2" />
   </ItemGroup>
 
-  <Target Name="PrepublishScript" BeforeTargets="PrepareForPublish">
-    <Exec Command="npm install" />
-    <Exec Command="bower install" />
-    <Exec Command="gulp clean" />
-    <Exec Command="gulp min" />
-  </Target>
+  <!-- Target Name="PrepublishScript" BeforeTargets="PrepareForPublish" -->
+    <!-- Exec Command="npm install" / -->
+    <!-- Exec Command="bower install" /-->
+    <!-- Exec Command="gulp clean" / -->
+    <!-- Exec Command="gulp min" / -->
+  <!-- /-->
 
 </Project>
