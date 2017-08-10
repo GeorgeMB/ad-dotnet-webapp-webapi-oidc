@@ -15,6 +15,9 @@ using Microsoft.IdentityModel.Protocols.OpenIdConnect;
 
 namespace TodoListWebApp
 {
+    /// <summary>
+    /// TDoListKey : LGgSVwS8AFXIi8WqAM74DDdwkjWnW1OhCs7VY49fxX8=
+    /// </summary>
     public class Startup
     {
         public static string ClientId;
